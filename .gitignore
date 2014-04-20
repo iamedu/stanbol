@@ -4,3 +4,6 @@ dependency-reduced-pom.xml
 .project
 .settings
 *~
+/data
+/enhancement-engines
+/entityhub
